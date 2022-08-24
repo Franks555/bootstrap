@@ -2,6 +2,12 @@ body{
     background-color: #FBEAD0;
 }
 
+body h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
 .nav {
     background-color: #FBEAD0;
     padding: 10px;
@@ -33,4 +39,19 @@ body{
 .banner img{
     padding-top: 20px;
     width: 250px;
+}
+
+.of {
+    object-fit: cover;
+}
+
+.card-text{
+    font-size: 20px;
+    text-align: justify;
+    padding-top: 20px;
+}
+
+.mb-4 img{
+    width: 35px;
+
 }
